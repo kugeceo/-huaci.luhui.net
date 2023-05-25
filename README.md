@@ -59,11 +59,11 @@ search/?Category=dict&amp;q=关键词</span><br style="overflow-wrap: break-word
 groups/yiti.php?cc=</span></p>
 
 
+http://huaci.guanfu.org/
 
 
 
-
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/33ef0391-d457-435d-9382-073463b342c3/deploy-status)](https://app.netlify.com/sites/huaci/deploys)
 
 
 
